@@ -1,14 +1,15 @@
 # Christmas Ornament 2024
-TBD
+This year marks the second time creating an electronics project for the Christmas holidays.  
+The pcb resembles a Christmas ornament-ball in red with silkscreen and LEDs for a twinkling star effect.
 
 
 
 ## Hardware
-The "Hardware" directory within this repository contains PCB design as KiCAD project.
+The "Hardware" directory within this repository contains PCB design as a KiCAD 8.0 project.
 
-
-## Mechanical
-The "Mechanical" directory within this repository contains 3D (FDM) printable mechanical parts as FreeCAD project and `.3mf` files.
+## Firmware
+The "Firmware" directory within this repository contains the firmware for the ATtiny13 MCU as an Arduino project.
+This utilizes the [Microcore](https://github.com/MCUdude/MicroCore) hardware package.
 
 
 ## Documentation
@@ -17,9 +18,6 @@ The "Documentation" directory within this repository contains various documentat
 
 ## Credits
 - Danni Randeris <danni@danniranderis.dk>
-
-Graphics from public domain kindly used.
-- xx
 
 
 ## License
